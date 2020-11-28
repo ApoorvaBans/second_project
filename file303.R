@@ -1,0 +1,1 @@
+print("They would just be jealous of us")
